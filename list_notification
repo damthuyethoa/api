@@ -1,0 +1,23 @@
+{
+    "total": 8,
+    "data": [
+        {
+            "id": 119,
+            "message": "Đơn hàng #6 của bạn đã được thanh toán",
+            "title": "MEEC",
+            "is_read": "0"
+        },
+        {
+            "id": 118,
+            "message": "Đơn hàng #6 của bạn đã được tạo",
+            "title": "MEEC",
+            "is_read": "0"
+        },
+        {
+            "id": 117,
+            "message": "Hệ thống đã tiếp nhận yêu cầu #5 của bạn",
+            "title": "MEEC",
+            "is_read": "0"
+        }
+    ]
+}
